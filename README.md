@@ -6,4 +6,4 @@
 I'm Jaocb, a 23 years old DS from MC(SAR).
 
 
-  <img height="180em" width="80%" src="https://github-readme-stats.vercel.app/api?username=JacobChak&count_private=true&show_icons=true&theme=cobalt"/>
+  <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api?username=JacobChak&count_private=true&show_icons=true&theme=cobalt"/>
